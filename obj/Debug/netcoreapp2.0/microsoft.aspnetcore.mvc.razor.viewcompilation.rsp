@@ -1,0 +1,5 @@
+C:\Projects\keyword-organizer-dotnetcore
+--output-path=obj\Debug\netcoreapp2.0\
+--application-name=keyword-organizer-dotnetcore
+--content-root=C:\Projects\keyword-organizer-dotnetcore
+--file=

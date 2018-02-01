@@ -8,3 +8,4 @@ C:\Projects\keyword-organizer-dotnetcore\obj\Debug\netcoreapp2.0\keyword-organiz
 C:\Projects\keyword-organizer-dotnetcore\obj\Debug\netcoreapp2.0\keyword-organizer-dotnetcore.AssemblyInfo.cs
 C:\Projects\keyword-organizer-dotnetcore\obj\Debug\netcoreapp2.0\keyword-organizer-dotnetcore.dll
 C:\Projects\keyword-organizer-dotnetcore\obj\Debug\netcoreapp2.0\keyword-organizer-dotnetcore.pdb
+C:\Projects\keyword-organizer-dotnetcore\bin\Debug\netcoreapp2.0\Dockerfile
