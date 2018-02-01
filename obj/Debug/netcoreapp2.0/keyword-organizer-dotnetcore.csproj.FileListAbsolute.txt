@@ -1,0 +1,10 @@
+C:\Projects\keyword-organizer-dotnetcore\bin\Debug\netcoreapp2.0\keyword-organizer-dotnetcore.deps.json
+C:\Projects\keyword-organizer-dotnetcore\bin\Debug\netcoreapp2.0\keyword-organizer-dotnetcore.runtimeconfig.json
+C:\Projects\keyword-organizer-dotnetcore\bin\Debug\netcoreapp2.0\keyword-organizer-dotnetcore.runtimeconfig.dev.json
+C:\Projects\keyword-organizer-dotnetcore\bin\Debug\netcoreapp2.0\keyword-organizer-dotnetcore.dll
+C:\Projects\keyword-organizer-dotnetcore\bin\Debug\netcoreapp2.0\keyword-organizer-dotnetcore.pdb
+C:\Projects\keyword-organizer-dotnetcore\obj\Debug\netcoreapp2.0\keyword-organizer-dotnetcore.csproj.CoreCompileInputs.cache
+C:\Projects\keyword-organizer-dotnetcore\obj\Debug\netcoreapp2.0\keyword-organizer-dotnetcore.AssemblyInfoInputs.cache
+C:\Projects\keyword-organizer-dotnetcore\obj\Debug\netcoreapp2.0\keyword-organizer-dotnetcore.AssemblyInfo.cs
+C:\Projects\keyword-organizer-dotnetcore\obj\Debug\netcoreapp2.0\keyword-organizer-dotnetcore.dll
+C:\Projects\keyword-organizer-dotnetcore\obj\Debug\netcoreapp2.0\keyword-organizer-dotnetcore.pdb
